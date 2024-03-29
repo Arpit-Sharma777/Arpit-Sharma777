@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Arpit-Sharma
-- 👀 I’m interested in gaming,playing
-- 🌱 I’m currently learning Bca
-- 💞️ I’m looking to collaborate on [I'm not looking collabration currently]
-- 📫 How to reach me 
+👋 Hi, I’m @arpitsharma
+👀 I’m interested in Web developement & Data Analysis.
+📫 How to reach me : you can mail me on my email- arpit.31093@gmail.com
+😄 Pronouns: He/Him
 
 <!---
 Arpit-Sharma777/Arpit-Sharma777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
